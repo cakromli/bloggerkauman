@@ -8,5 +8,5 @@
   <Url type="application/atom+xml" template="https://bloggerkauman.blogspot.com/search?q={searchTerms}&amp;feed=atom"/>
   <Url type="application/rss+xml" template="https://bloggerkauman.blogspot.com/search?q={searchTerms}&amp;feed=rss2"/>
   <Url type="text/html" template="https://bloggerkauman.blogspot.com/search?q={searchTerms}" method="GET" />
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://github.com/romlidotnet/script/blob/master/opensearch.xml" />
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://rawcdn.githack.com/cakromli/bloggerkauman/953f4210959d7f7bd99bae77b3cd9f1382f6f27c/opensearch.xml" />
 </OpenSearchDescription>
