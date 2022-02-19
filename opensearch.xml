@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Blogger Kauman</ShortName>
+  <LongName>Search on Blogger Kauman</LongName>
+  <Description>Search content from blog posts at Blogger Kauman</Description>
+  <Image type="https://bloggerkauman.blogspot.com/favicon.ico" height="16" width="16">image/x-icon</Image>
+  <Developer>Automattic</Developer>
+  <Url type="application/atom+xml" template="https://bloggerkauman.blogspot.com/search?q={searchTerms}&amp;feed=atom"/>
+  <Url type="application/rss+xml" template="https://bloggerkauman.blogspot.com/search?q={searchTerms}&amp;feed=rss2"/>
+  <Url type="text/html" template="https://bloggerkauman.blogspot.com/search?q={searchTerms}" method="GET" />
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://github.com/romlidotnet/script/blob/master/opensearch.xml" />
+</OpenSearchDescription>
